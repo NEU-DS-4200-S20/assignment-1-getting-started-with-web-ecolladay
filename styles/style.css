@@ -1,6 +1,6 @@
 html {
-    font-size: 18px; /* px means "pixels": the base font size is now 10 pixels high  */
-    font-family: 'Source Sans Pro', sans-serif; /* this should be the rest of the output you got from Google fonts */
+    font-size: 18px; 
+    font-family: 'Source Sans Pro', sans-serif;
     background-color: rgb(148, 228, 184);
 }
 
